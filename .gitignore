@@ -1,0 +1,7 @@
+build
+gradle
+out
+bulk_ninja
+.gradle
+.idea
+Ninja.*
